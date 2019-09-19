@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ssm">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/domain/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
