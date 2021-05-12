@@ -22,7 +22,7 @@
         <log4j.version>1.2.17</log4j.version>
         <oracle.version>11.2.0.1.0</oracle.version>
         <mybatis.version>3.5.2</mybatis.version>
-        <spring.security.version>5.1.5.RELEASE</spring.security.version>
+        <spring.security.version>5.2.10.RELEASE</spring.security.version>
     </properties>
     <dependencies>
         <!-- spring -->
